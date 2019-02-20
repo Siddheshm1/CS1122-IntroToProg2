@@ -12,3 +12,10 @@ This folder contains all the significant programs and exercise problems that hav
   - This program draws random lines with random colors in random locations of the Pane.
 * [Button Clicker](https://github.com/Siddheshm1/IntroToProg2/blob/master/CS1122Week5%20-%20(JavaFX%20Basics)/src/ButtonViewer2.java)
   - This program displays a button in the pane and counts how many times that button has been clicked. It prints out how many times the button have been clicked in the console.
+  
+## In-class exercises and notes by Week
+* [Week 1 (input/output)](https://github.com/Siddheshm1/IntroToProg2/tree/master/CS1122Week1(input-output)/src)
+* [Week 2 (Objects and Classes](https://github.com/Siddheshm1/IntroToProg2/tree/master/CS1122Week2%20(Class%20%26%20Objects)/src)
+* [Week 3 (Inheritance)](https://github.com/Siddheshm1/IntroToProg2/tree/master/CS1122Week3%20-%20(Inheritance)/src)
+* [Week 4 (Object-Oriented Design)](https://github.com/Siddheshm1/IntroToProg2/tree/master/CS1122Week4%20-%20(Object-Oriented%20Design)/src)
+* [Week 5 (JavaFX)](https://github.com/Siddheshm1/IntroToProg2/tree/master/CS1122Week5%20-%20(JavaFX%20Basics)/src)
