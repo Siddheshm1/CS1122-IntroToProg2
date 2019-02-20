@@ -1,0 +1,4 @@
+Larry : larry@mtu.edu
+Joe : Joe@mtu.edu
+Moe : Moe@mtu.edu
+Curly Joe : curlyjoe@mtu.edu
